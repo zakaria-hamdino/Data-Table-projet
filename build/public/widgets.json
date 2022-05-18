@@ -1,0 +1,31 @@
+[
+    {
+        "id": "1",
+        "name": "Agent Audited vs Not Audited Bar Chart",
+        "type": "column",
+        "options": {
+            "series": "Status",
+            "value": "Percent"
+        },
+        "title": "Audited Transactions Percent"
+    },
+    {
+        "id": "2",
+        "name": "Agent Ranks in Team and Channel",
+        "type": "html",
+        "options": {
+            "code": "<h4>Branch: **team**</h4><h4>Channel: **channel**</h4>"
+        },
+        "title": "Agent Rank in Mistakes"
+    },
+    {
+        "id": "3",
+        "name": "Agent Mistakes Pie Chart",
+        "type": "pie",
+        "options": {
+            "value": "total",
+            "name": "Mistake"
+        },
+        "title": "Top Mistakes"
+    }
+]

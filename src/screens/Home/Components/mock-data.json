@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "fullName": "Anas Amil",
+        "address": " hay Raha, Beausejour, Grand Casablanca",
+        "phoneNumber": "0522 951 259",
+        "email": "Anas.amil@gmail.com"
+    },
+    {
+        "id": 2,
+        "fullName": "Yahya Regragui",
+        "address": "18, rue de Madrid, Souss-Massa-Drâa",
+        "phoneNumber": "0528 821 973",
+        "email": "yahya.regragui@gmail.com"
+    },
+    {
+        "id": 3,
+        "fullName": "Amine Bouanani",
+        "address": " 218, bd Taza (Ain Chok), Grand Casablanca",
+        "phoneNumber": "0522 874 851",
+        "email": "amine.bouanani@gmail.com"
+    },
+    {
+        "id": 4,
+        "fullName": "Salah Kaissouni",
+        "address": "48, bd Rahal El Meskini, Grand Casablanca",
+        "phoneNumber": "0663 438 415",
+        "email": "salah.kaissouni@email.com"
+    },
+    {
+        "id": 5,
+        "fullName": "Adam Alaoui",
+        "address": "10, bd de la Liberte, Grand Casablanca",
+        "phoneNumber": "0522 548 754",
+        "email": "Adam.alaoui@gmail.com"
+    },
+    {
+        "id": 6,
+        "fullName": "Hatim khoursa",
+        "address": "196, bd Ambassadeur Ben Aicha, Grand Casablanca",
+        "phoneNumber": "0522 405 931",
+        "email": "Hatim.khoursa@gmail.com"
+    }
+]
